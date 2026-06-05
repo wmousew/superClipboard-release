@@ -12,8 +12,8 @@ main
 └── channels/
     └── ocr-stable.json
 
-Release tag: ocr-v1.0.0
-└── superClipboard-ocr-windows-x64-1.0.0.zip
+Release tag: ocr-v1.0.1
+└── superClipboard-ocr-windows-x64-1.0.1.zip
 ```
 
 The app reads:
@@ -31,8 +31,7 @@ The ZIP root must contain:
 ```text
 component.json
 ocr-worker.exe
-models/
-required Paddle Inference and OpenCV DLLs
+_internal/
 ```
 
 ## Worker commands
@@ -74,8 +73,8 @@ Do not write diagnostic logs to stdout. Use stderr for logs.
 
 ```powershell
 .\make-manifest.ps1 `
-  -Package .\superClipboard-ocr-windows-x64-1.0.0.zip `
-  -Version 1.0.0 `
+  -Package .\superClipboard-ocr-windows-x64-1.0.1.zip `
+  -Version 1.0.1 `
   -Repository wmousew/superClipboard-release `
   -Output .\ocr-stable.json
 ```

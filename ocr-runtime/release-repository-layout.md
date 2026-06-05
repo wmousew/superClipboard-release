@@ -8,18 +8,17 @@ channels/
 └── ocr-stable.json
 ```
 
-Recommended GitHub Release tags:
+Current Release tags:
 
 ```text
-app-v1.0.0
-ocr-v1.0.0
-ocr-v1.1.0
+app-v1.1.3
+ocr-v1.0.1
 ```
 
 Each OCR Release contains exactly one runtime ZIP:
 
 ```text
-superClipboard-ocr-windows-x64-1.0.0.zip
+superClipboard-ocr-windows-x64-1.0.1.zip
 ```
 
 The stable channel manifest is committed to:
