@@ -1,6 +1,6 @@
 ﻿{
     "version":  "1.0.0",
-    "minimumAppVersion":  "1.1.0",
+    "minimumAppVersion":  "1.1.1",
     "downloadUrls":  [
                          "https://github.com/wmousew/superClipboard-release/releases/download/ocr-v1.0.0/superClipboard-ocr-windows-x64-1.0.0.zip",
                          "https://gitee.com/xzon/superClipboard-releases/releases/download/ocr-v1.0.0/superClipboard-ocr-windows-x64-1.0.0.zip"
