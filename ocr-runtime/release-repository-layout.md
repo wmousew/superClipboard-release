@@ -11,7 +11,7 @@ channels/
 Current Release tags:
 
 ```text
-app-v1.1.3
+app-v1.1.4
 ocr-v1.0.1
 ```
 
