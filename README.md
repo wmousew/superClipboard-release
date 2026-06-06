@@ -8,14 +8,14 @@
 
 | 版本 | 文件 | SHA-256 |
 |---|---|---|
-| v1.1.5 | [superClipboard-release.zip](superClipboard-release.zip) | `2A03DAA3D2D145057401976342FBD4155DF5CE35C148C21E7E354C7A22129F0E` |
+| v1.1.6 | [superClipboard-release.zip](superClipboard-release.zip) | `05BE5C27831CB926313E94FB4B582EE3895161D39DF70F1F0EDD91193D3FFF26` |
 
 `superClipboard-release.zip` 始终指向最新版。版本化文件为
-[`superClipboard-windows-x64-1.1.5.zip`](superClipboard-windows-x64-1.1.5.zip)。
+[`superClipboard-windows-x64-1.1.6.zip`](superClipboard-windows-x64-1.1.6.zip)。
 
 解压 ZIP 后运行 `superClipboard.exe`。支持 Windows 10/11 x64。
 
-也可从 [GitHub Release](https://github.com/wmousew/superClipboard-release/releases/tag/app-v1.1.5)
+也可从 [GitHub Release](https://github.com/wmousew/superClipboard-release/releases/tag/app-v1.1.6)
 下载版本化安装包。
 
 ## OCR 组件
