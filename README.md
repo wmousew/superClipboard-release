@@ -1,6 +1,6 @@
-# superClipboard 发布仓库
+# MouseBox-Clipboard 发布仓库
 
-本仓库用于发布 superClipboard Windows 安装包和可选 PaddleOCR 运行组件。
+本仓库用于发布 MouseBox-Clipboard（鼠鼠百宝箱-剪贴板）Windows 主程序、安装包和可选运行组件。
 
 源码仓库：https://gitee.com/xzon/superClipboard
 
@@ -8,15 +8,26 @@
 
 | 版本 | 文件 | SHA-256 |
 |---|---|---|
-| v1.1.7 | [superClipboard-release.zip](superClipboard-release.zip) | `DFA065C2002728B2F0C23E201F79AFDCBD4E6A8823A5076BA65198AEE0DB3768` |
+| v1.2.3 | [MouseBox-Clipboard-release.zip](MouseBox-Clipboard-release.zip) | `98FB88EA5F628376EE67B997ABBCBD48210E2C4C5B32EC819DFB503F8F672607` |
 
-`superClipboard-release.zip` 始终指向最新版。版本化文件为
-[`superClipboard-windows-x64-1.1.7.zip`](superClipboard-windows-x64-1.1.7.zip)。
+`MouseBox-Clipboard-release.zip` 始终指向最新版。版本化文件为
+[`MouseBox-Clipboard-windows-x64-1.2.3.zip`](MouseBox-Clipboard-windows-x64-1.2.3.zip)。
 
-解压 ZIP 后运行 `superClipboard.exe`。支持 Windows 10/11 x64。
+解压 ZIP 后运行 `MouseBox-Clipboard.exe`。支持 Windows 10/11 x64。
 
-也可从 [GitHub Release](https://github.com/wmousew/superClipboard-release/releases/tag/app-v1.1.7)
-下载版本化安装包。
+## 单文件安装包
+
+- 安装包：[`MouseBox-Clipboard-Setup-v1.2.3.exe`](MouseBox-Clipboard-Setup-v1.2.3.exe)
+- SHA-256：`787C2647E400A7E01803173C153C0FC522A6DD0E5E3B3621AFD50EE7AFCEFD76`
+
+## 文件内容搜索模块
+
+文件内容搜索模块按需安装，依赖 OCR 组件，索引与搜索均在本地运行。
+
+- 当前模块版本：`v1.0.0`
+- 组件包：[`MouseBox-Clipboard-file-content-windows-x64-1.0.0.zip`](MouseBox-Clipboard-file-content-windows-x64-1.0.0.zip)
+- 稳定通道：[channels/file-content-stable.json](channels/file-content-stable.json)
+- SHA-256：`6799A37FD0C737B63CB0E9C1D12D4C34B676F5A0A5FEF95952EC6D959740B629`
 
 ## OCR 组件
 

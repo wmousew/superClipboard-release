@@ -1,10 +1,13 @@
-# OCR 更新通道
+# 组件更新通道
 
 当前稳定通道：
 
 ```text
 ocr-stable.json
+file-content-stable.json
 ```
 
-当前指向 OCR Runtime `v1.0.1`。Manifest 同时提供 GitHub 和 Gitee 的
-OCR ZIP 地址，并填写相同文件的大小、最低主程序版本和 SHA-256。
+- `ocr-stable.json` 指向 OCR Runtime `v1.0.1`。
+- `file-content-stable.json` 指向文件内容搜索模块 `v1.0.0`。
+
+Manifest 同时提供 GitHub 和 Gitee 的下载地址，并填写相同文件的版本、SHA-256 等校验信息。
