@@ -8,17 +8,17 @@
 
 | 版本 | 文件 | SHA-256 |
 |---|---|---|
-| v1.2.3 | [MouseBox-Clipboard-release.zip](MouseBox-Clipboard-release.zip) | `98FB88EA5F628376EE67B997ABBCBD48210E2C4C5B32EC819DFB503F8F672607` |
+| v1.2.4 | [MouseBox-Clipboard-release.zip](MouseBox-Clipboard-release.zip) | `4E86CF9ED831480A9463CF77413F1A172D831C72F3BCB62FD4E5C07DBBD9CC28` |
 
 `MouseBox-Clipboard-release.zip` 始终指向最新版。版本化文件为
-[`MouseBox-Clipboard-windows-x64-1.2.3.zip`](MouseBox-Clipboard-windows-x64-1.2.3.zip)。
+[`MouseBox-Clipboard-windows-x64-1.2.4.zip`](MouseBox-Clipboard-windows-x64-1.2.4.zip)。
 
 解压 ZIP 后运行 `MouseBox-Clipboard.exe`。支持 Windows 10/11 x64。
 
 ## 单文件安装包
 
-- 安装包：[`MouseBox-Clipboard-Setup-v1.2.3.exe`](MouseBox-Clipboard-Setup-v1.2.3.exe)
-- SHA-256：`787C2647E400A7E01803173C153C0FC522A6DD0E5E3B3621AFD50EE7AFCEFD76`
+- 安装包：[`MouseBox-Clipboard-Setup-v1.2.4.exe`](MouseBox-Clipboard-Setup-v1.2.4.exe)
+- SHA-256：`267CC6D46C6845A001C80C69E4CAC116D8DA56C339D7E001A7C55B7A38424A5D`
 
 ## 文件内容搜索模块
 
